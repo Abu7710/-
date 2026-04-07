@@ -1,6 +1,7 @@
 Проект ИИ ассистент для компании по установке окон
 
-ссылка на проект https://github.com/Abu7710/-/blob/main/screen_bot%20AI.jpg?raw=true
+ссылка на проект 
+https://raw.githubusercontent.com/Abu7710/-/f5a5bafecdc42338e1898ffa280a1a1e43c4d61e/screen_bot%20AI.jpg
 
 `README.md`, адаптированный именно под ваш ассистент **«Альфия»**, стек **Qwen + Suvvy** и описанную бизнес-логику. Просто скопируйте код, замените данные в `[...]` и публикуйте.
 
