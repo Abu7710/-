@@ -8,13 +8,6 @@
 
 Автоматизированный ИИ-ассистент для записи на бесплатный замер окон. Построен на базе LLM **Qwen** и оркестратора **Suvvy**, строго следует корпоративным стандартам продаж и ГОСТ 30674-2020.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![LLM](https://img.shields.io/badge/LLM-Qwen_Turbo%2FPlus-green)](https://qwen.ai/)
-[![Framework](https://img.shields.io/badge/Orchestrator-Suvvy-orange)](#)
-[![Python](https://img.shields.io/badge/python-3.10+-blue?logo=python)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/status-production%20ready-brightgreen)](#)
-
----
 
 ## 📑 Оглавление
 - [✨ Возможности](#-возможности)
